@@ -18,6 +18,13 @@ Git是一个开源的分布式版本控制系统，用以有效、高速的处�
 
 - 熟练的在GitHub上使用
 
+本教程内容来源于 
+
+[Git Pro 中文](http://git-scm.com/book/zh/v1)
+
+[Git Pro 英文](http://www.amazon.com/Pro-Git-Scott-Chacon/dp/1484200772?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430218339&linkCode=as2&tag=git-sfconservancy-20)
+
+
 |更新日期    |更新内容
 |----------|--------------------
 |2015-05-15|Pro Git
